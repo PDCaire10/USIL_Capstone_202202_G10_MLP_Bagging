@@ -47,7 +47,7 @@ Implementar el modelo MLP + Bagging para estimar la calificación crediticia usa
 - warnings
 
 ## Enlace del video de configuración
-Youtube: https://youtu.be/5O7sgnb4_NA
+Youtube: https://www.youtube.com/watch?v=b7-aZVWVSUI
 
 ## Enlace del video DEMO
-Youtube: https://youtu.be/zOYTvve7ODA
+Youtube: https://www.youtube.com/watch?v=ajaeX3D7_8c
